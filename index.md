@@ -1,37 +1,47 @@
-## Welcome to GitHub Pages
+# 환영합니다! 재미그래밍입니다
 
-You can use the [editor on GitHub](https://github.com/Fungramming/class-1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+>재미그래밍 0기 스터디를 할 때는 사실 재미그래밍이란 이름이 없었습니다. 단지 블랙루비 내의 스터디였을 뿐입니다.
+>
+>그런데 저희가 나름의 체계를 가지고 매주 공부를 해나가다 보니 도움이 많이 되었고, 그 과정에서 재미 또한 잃지 않고 즐겁게 공부할 수 있었습니다.
+>
+>만족스러웠던 이 스터디를 다른 사람들과도 같이 지속적으로 이어 나가고 싶어 재미그래밍이라는 이름의 스터디를 정식으로 만들어 지금까지 진행하고 있습니다.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+재미그래밍 첫 정식 스터디 1기 스터디를 소개합니다.
 
-### Markdown
+## 재미그래밍 1기 스터디 소개
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- - -
 
-```markdown
-Syntax highlighted code block
+### 일시
 
-# Header 1
-## Header 2
-### Header 3
+2017.08 ~ 2017.09
 
-- Bulleted
-- List
+### 인원 및 구성
 
-1. Numbered
-2. List
+블랙루비 개발자와 외부 직장인 총 8명
 
-**Bold** and _Italic_ and `Code` text
+### 주제
 
-[Link](url) and ![Image](src)
-```
+파이썬
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### 목표
 
-### Jekyll Themes
+### 커리큘럼
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Fungramming/class-1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- 전반 - 파이썬 기초
 
-### Support or Contact
+  - 1주차: 점프투 파이썬
+  - 2주차:
+  - 3주차:
+  - 4주차:
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- 후반 - 파이썬 심화
+
+  - 5주차:
+  - 6주차:
+  - 7주차:
+  - 8주차:
+
+### 스터디 방식
+
+한 달에 한 권씩 책을 읽고 공부한다.
