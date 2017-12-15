@@ -65,4 +65,4 @@
 
 - __실습 중심__: 공부하는 것도 중요하지만 그것을 직접 활용해보는 것도 매우 중요합니다. 매주 [코딩도장](http://codingdojang.com/)에 있는 코딩 문제와 중간평가, 기말평가 때 조금 시간을 들여야 하는 [코딩게임](https://www.codingame.com/star)을 해봅니다.
 
-![코딩도장](/assets/codingdojang.png)
+![코딩도장](/assets/codingdojang.PNG)
