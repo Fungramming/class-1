@@ -41,9 +41,15 @@
 
 ![파이썬 기초 교재](/assets/python_basic.PNG)
 
+<br>
+<br>
+
 - __중간평가__ - easy 난이도 코딩게임 하기
 
 ![easy 난이도 코딩게임](/assets/middle_test.PNG)
+
+<br>
+<br>
 
 - __후반 - 파이썬 심화__
 
@@ -53,9 +59,15 @@
 
 ![파이썬 심화 교재](/assets/python_advance.PNG)
 
+<br>
+<br>
+
 - __기말 평가__ - medium 난이도 코딩게임 하기
 
 ![medium 난이도 코딩게임](assets/last_test.PNG)
+
+<br>
+<br>
 
 ### 스터디 방식
 
