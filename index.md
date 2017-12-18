@@ -16,7 +16,7 @@
 
 ### 일시
 
-2017.08 ~ 2017.09
+2017.08 ~ 2017.09 (6주)
 
 ### 인원 및 구성
 
@@ -42,13 +42,11 @@
 ![파이썬 기초 교재](/assets/python_basic.PNG)
 
 <br>
-<br>
 
 - __중간평가__ - easy 난이도 코딩게임 하기
 
-![easy 난이도 코딩게임](/assets/middle_test.PNG)
+<img src="assets/middle_test.PNG" alt="easy 난이도 코딩게임" style="display: block; margin-right: auto; margin-left: auto; width: 700px;">
 
-<br>
 <br>
 
 - __후반 - 파이썬 심화__
@@ -60,13 +58,11 @@
 ![파이썬 심화 교재](/assets/python_advance.PNG)
 
 <br>
-<br>
 
 - __기말 평가__ - medium 난이도 코딩게임 하기
 
-![medium 난이도 코딩게임](assets/last_test.PNG)
+<img src="assets/last_test.PNG" alt="medium 난이도 코딩게임" style="display: block; margin-right: auto; margin-left: auto; width: 700px;">
 
-<br>
 <br>
 
 ### 스터디 방식
@@ -77,4 +73,4 @@
 
 - __실습 중심__: 공부하는 것도 중요하지만 그것을 직접 활용해보는 것도 매우 중요합니다. 매주 [코딩도장](http://codingdojang.com/)에 있는 코딩 문제와 중간평가, 기말평가 때 조금 시간을 들여야 하는 [코딩게임](https://www.codingame.com/star)을 해봅니다.
 
-![코딩도장](/assets/codingdojang.PNG)
+<img src="assets/codingdojang.PNG" alt="코딩도장" style="display: block; margin-right: auto; margin-left: auto; width: 700px;">
